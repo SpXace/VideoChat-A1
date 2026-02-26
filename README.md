@@ -1,6 +1,7 @@
-![title](Readme.assets/title.png)
 
 # VideoChat-A1：
+
+![name](Readme.assets/title.png)
 
 Our paper has been accepted by AAAI 2025
 

@@ -3,7 +3,7 @@
 
 ![name](Readme.assets/title.png)
 
-Our paper has been accepted by AAAI 2025
+Our paper has been accepted by AAAI 2026
 
 ## Abstract
 

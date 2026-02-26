@@ -1,6 +1,6 @@
 ![title](Readme.assets/title.png)
 
-# LVAgent：
+# VideoChat-A1：
 
 Our paper has been accepted by AAAI 2025
 

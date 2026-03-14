@@ -1,5 +1,5 @@
 
-# VideoChat-A1：
+# VideoChat-A1: Thinking with Long Videos by Chain-of-Shot
 
 ![name](Readme.assets/title.png)
 

@@ -34,7 +34,14 @@ pip install -r requirement.txt
 
 - Please download the dataset of longvideo bench, videomme, egoschema, mlvu dataset from hugging face
 - Download the model Qwen2.5-VL-7B, Internvl-2.5-7B, InternVideo-2.5-8B from hugging face
-- **Change the path in  final_lvbench.py, all_model_agent.py and  all_model_util**
+- Change the path in  run.py, all_model_agent_new.py and  all_model_util.py
+
+
+## Inference
+```bash
+bash inference.sh
+```
+
 
 ## Citation
 
@@ -45,6 +52,7 @@ pip install -r requirement.txt
   author={Wang, Zikang and Chen, Boyu and Yue, Zhengrong and Wang, Yi and Qiao, Yu and Wang, Limin and Wang, Yali},
   journal={arXiv preprint arXiv:2506.06097},
   year={2025},
+}
 
 @misc{chen2025videochatm1,
       title={VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning}, 
@@ -52,13 +60,11 @@ pip install -r requirement.txt
       year={2025},
 }
 
-
 @article{chen2025lvagent,
   title={Lvagent: Long video understanding by multi-round dynamical collaboration of mllm agents},
   author={Chen, Boyu and Yue, Zhengrong and Chen, Siran and Wang, Zikang and Liu, Yang and Li, Peng and Wang, Yali},
   journal={arXiv preprint arXiv:2503.10200},
   year={2025},
-
-
+}
 ```
 

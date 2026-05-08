@@ -1,1 +1,1 @@
-python run.py
+python run/run_longvideobench.py

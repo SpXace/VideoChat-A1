@@ -28,13 +28,14 @@ by up to 10.1% and 6.2%.  Compared to leading closed-source GPT-4o and Gemini 1.
 ## Install
 
 ```bash
-conda create -n lvagent python=3.12
+conda create -n a1 python=3.12
 pip install -r requirement.txt
 ```
 
 - Please download the dataset of longvideo bench, videomme, egoschema, mlvu dataset from hugging face
 - Download the model Qwen2.5-VL-7B, Internvl-2.5-7B, InternVideo-2.5-8B from hugging face
-- Change the path in  run.py, all_model_agent_new.py and  all_model_util.py
+- Use the frame sampling strategy from VideoTree and extract features with EVA-CLIP-8B
+- Change the path in run_longvideobench.py, all_model_agent_new.py and  all_model_util.py
 
 
 ## Inference
